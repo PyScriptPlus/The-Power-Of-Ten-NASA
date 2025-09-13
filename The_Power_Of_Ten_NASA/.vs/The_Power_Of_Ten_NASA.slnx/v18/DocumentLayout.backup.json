@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D746C9-00ED-4A2D-BCBF-6EC90AEF936F}|The_Power_Of_Ten_NASA.vcxproj|C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\The_Power_Of_Ten_NASA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67D746C9-00ED-4A2D-BCBF-6EC90AEF936F}|The_Power_Of_Ten_NASA.vcxproj|solutionrelative:The_Power_Of_Ten_NASA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D746C9-00ED-4A2D-BCBF-6EC90AEF936F}|The_Power_Of_Ten_NASA.vcxproj|C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\asserts.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67D746C9-00ED-4A2D-BCBF-6EC90AEF936F}|The_Power_Of_Ten_NASA.vcxproj|solutionrelative:asserts.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asserts.hpp",
+              "DocumentMoniker": "C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\asserts.hpp",
+              "RelativeDocumentMoniker": "asserts.hpp",
+              "ToolTip": "C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\asserts.hpp",
+              "RelativeToolTip": "asserts.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-13T13:07:31.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "The_Power_Of_Ten_NASA.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\The_Power_Of_Ten_NASA.cpp",
+              "RelativeDocumentMoniker": "The_Power_Of_Ten_NASA.cpp",
+              "ToolTip": "C:\\Users\\Mohamad\\Desktop\\The_Power_Of_Ten_NASA\\The_Power_Of_Ten_NASA.cpp*",
+              "RelativeToolTip": "The_Power_Of_Ten_NASA.cpp*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwHQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-13T10:59:15.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
